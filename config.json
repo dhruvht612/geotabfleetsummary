@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "items": [
     {
-      "url": "https://thakardhruv.me/geotabfleetsummary/index.html",
+      "url": "https://dhruvht612.github.io/geotabfleetsummary/index.html",
       "path": "ActivityLink/",
       "menuName": {
         "en": "Fleet Summary"
       },
-      "svgIcon": "https://thakardhruv.me/geotabfleetsummary/icon.svg"
+      "svgIcon": "https://dhruvht612.github.io/geotabfleetsummary/icon.svg"
     }
   ],
   "files": {}
