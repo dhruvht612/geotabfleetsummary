@@ -1,0 +1,16 @@
+{
+  "name": "Fleet Summary",
+  "supportEmail": "you@yourcompany.com",
+  "version": "1.0.0",
+  "items": [
+    {
+      "url": "https://YOUR-HOST/fleet-summary-addin/index.html",
+      "path": "ActivityLink/",
+      "menuName": {
+        "en": "Fleet Summary"
+      },
+      "svgIcon": "https://YOUR-HOST/fleet-summary-addin/icon.svg"
+    }
+  ],
+  "files": {}
+}
